@@ -1,6 +1,6 @@
 # Varianta 31
 
-![](https://github.com/encodedemotions/lpfcok/blob/main/Lab2/ss/screen1.HEIC)
+![](https://github.com/encodedemotions/lpfcok/blob/main/Lab2/ss/screen1.jpeg)
 
 # Varianta 31 by program:
 
