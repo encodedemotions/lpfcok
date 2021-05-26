@@ -1,0 +1,5 @@
+S AC bA B aA
+A 0 aS ABAb
+B AbSA a
+C abC
+D AB
