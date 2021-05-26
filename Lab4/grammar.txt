@@ -1,0 +1,8 @@
+1 S > E
+2 E > F c A
+3 A > b
+4 | d D
+5 D > F e
+6 F > a X
+7 X > b a X
+8 | eps
